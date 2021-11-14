@@ -15,6 +15,9 @@ I combined this image:
 with this artwork's style:
 ![modern art](modern_art.jpg)
 
+# Style Transfer Neural Network Architecture
+![Style Transfer Network](architecture.jpeg)
+
 # Development Environment
 
 I used Visual Studio Code for this project along with the Python programming language and the Pytorch deep learning library.
