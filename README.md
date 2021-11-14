@@ -8,13 +8,13 @@ Below is a video of a walkthrough of the network architecture and the code.
 
 # Data Analysis Results
 
-Here is the result of the style transfer.
+Here is the result of the style transfer:
+![San Diego LDS temple in style](modern_temple.png)
 I combined this image:
- * ![San Diego Temple](san_diego_temple.jpg)
-with this style:
- * ![modern art](modern_art.jpg)
-to get this result:
- * ![San Diego LDS temple in style](modern_temple.png)
+![San Diego Temple](san_diego_temple.jpg)
+with this artwork's style:
+![modern art](modern_art.jpg)
+
 # Development Environment
 
 I used Visual Studio Code for this project along with the Python programming language and the Pytorch deep learning library.
