@@ -4,9 +4,9 @@ For this project I'm doing some neural style transfer using Pytorch. I downloade
 I have done things like image segmentation before with convolutional neural networks but I never got the opportunity to try anything with neural style transfer. 
 Below is a video of a walkthrough of the network architecture and the code.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/i4G8VN68OW8)
 
-# Data Analysis Results
+# Style Transfer Results
 
 Here is the result of the style transfer:
 ![San Diego LDS temple in style](modern_temple.png)
